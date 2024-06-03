@@ -15,7 +15,7 @@ Species: Robot
 Team: Reliable Excavation Demolition, or known as RED for short.
 ```
 
-# Phyical Appearance
+# Physical Appearance
 
 ```
 Dispenselope is anthropomorphic and her body is made completely out of metal. Her head has 2 screen faces at the front and back of it and the top has a small heartbeat monitor with 8 buttons on the right side of the monitor. Her chest is a toolbox of medical supplies, ammo, etc; and the left side of her chest has a yellow pressure container with a pressure monitor. The right side of her torso has a 5-foot magazine used for miniguns. She wears a long red skirt and metallic yellow gloves that are similar to what the Engineer wears. Her legs are black and the kneecaps and feet are yellow, her arms are red except for the gloves, and her head and faces are red except for her eyes and mouths.
